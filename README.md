@@ -37,8 +37,9 @@ Display various crosshair styles for improved targeting.
 ShotDEX is designed for ease of use. Simply follow these steps to get started:
 
 1. **Install Client**
+   https://github.com/ShotDEX/Project-ShotDEX/releases/tag/CSGO
 
-2. **Start the Application:**
+3. **Start the Application:**
 - Navigate to the directory where ShotDEX is located.
 - Run the executable file (.exe) to launch the tool.
 
